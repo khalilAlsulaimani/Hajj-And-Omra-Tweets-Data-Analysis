@@ -1,0 +1,12 @@
+1 = Place Of Stay
+2 = Security
+3 = Food and Drink
+4 = Practicing Religion
+5 = Health Care
+6 = Transport
+7 = Hajj Groups
+8 = Catering
+9 = Weather
+10 = Hospitality
+11 = Services
+12 = Unrelated To Hajj And Umrah
